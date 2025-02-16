@@ -75,7 +75,7 @@ Installation & Usage
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/yourusername/BigMart-Sales-Prediction.git
+git clone https://github.com/kinkiniM/BigMart-Sales-Prediction.git
 cd BigMart-Sales-Prediction
 
 2️⃣ Install Dependencies
